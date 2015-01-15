@@ -1,2 +1,4 @@
 # email-spamr
-Simple Python email spamming client
+Simple Python email spamming client. Note that you will have to add your gmail usrnm and psswd to spamr.py for the script to work. 
+username = "Enter gmail username here"
+password = "Enter gmail password here"
