@@ -16,5 +16,5 @@ time.sleep(1)
 print "> Sending SPAM into the void."
 while True:
     obj.sendmail("username", email, "YOU'VE RECIEVED STUFF!\n\r---From your friend " + name)
-    print "ya!"
+    print "Ya! Type Ctrl+C to stop sending crap."
 print "Sent!"
